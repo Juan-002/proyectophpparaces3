@@ -1,6 +1,6 @@
 <?php
 
-define('RUTA', '');
+define('RUTA', '/proyectophpparaces3/practicas/blog');
 
 $bd_config = array(
 'basedatos'=> 'blog_practicas',
